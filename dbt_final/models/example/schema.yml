@@ -1,0 +1,8 @@
+
+version: 2
+
+models:
+  - name: milestone1_avg
+    description: "avg of nav, repurchase_price and sales_price"
+  - name: min_max
+    description: "each scheme’s Max and Min NAV value"
